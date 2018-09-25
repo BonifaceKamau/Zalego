@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">mysql db</string>
+    <string name="editName">User Name</string>
+</resources>

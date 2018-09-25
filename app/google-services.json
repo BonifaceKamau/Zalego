@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "106342395822",
+    "firebase_url": "https://mysqldb-7437d.firebaseio.com",
+    "project_id": "mysqldb-7437d",
+    "storage_bucket": "mysqldb-7437d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106342395822:android:f88a20ef9afc9ab1",
+        "android_client_info": {
+          "package_name": "bonifacekamau.com.mysqldb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106342395822-2r6oo2ernvhf52qo5lpv8id25ctkh8uc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bonifacekamau.com.mysqldb",
+            "certificate_hash": "6267f8b7fcaee73a6fa0e4be627b7cbdc31230d0"
+          }
+        },
+        {
+          "client_id": "106342395822-iqdk8htph8kq7u7lloksk98k2rnc31hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSGVecY1NTgYYzoj7-mjffbChk-J6_JDw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106342395822-iqdk8htph8kq7u7lloksk98k2rnc31hn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
